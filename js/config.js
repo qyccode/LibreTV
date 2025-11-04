@@ -13,7 +13,7 @@ const PASSWORD_CONFIG = {
 
 // 网站信息配置
 const SITE_CONFIG = {
-    name: 'LibreTV',
+    name: '影视库',
     url: 'https://v.eeeu.eu',
     description: '免费在线视频搜索与观看平台',
     logo: 'image/logo.png',
